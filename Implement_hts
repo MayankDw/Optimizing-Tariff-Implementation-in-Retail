@@ -3,3 +3,17 @@ Existing Item updates Yes or No
 Existing order updates Yes or No
 New cost components must be inserted in config table for any additional fee that incurred in this update. 
 
+HTS load into system
+HTS
+HTS Definition
+HTS Tariff
+HTS Tariff exclusion
+HTS Tariff zone (if HTS rates are at zone level)
+HTS charges
+HTS charges zone (if HTS rates are at zone level)
+HTS Tax
+HTS Tax zone (if HTS rates are at zone level)
+
+HTS codes during load coud come with Add, update, delete
+
+
