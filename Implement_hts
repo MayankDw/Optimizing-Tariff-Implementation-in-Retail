@@ -1,0 +1,5 @@
+Country of source vs manufacture- First determine what is the country of origin - This could be country of manufacturing or country of sourcing. 
+Existing Item updates Yes or No
+Existing order updates Yes or No
+New cost components must be inserted in config table for any additional fee that incurred in this update. 
+
