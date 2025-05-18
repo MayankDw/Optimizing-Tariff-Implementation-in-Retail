@@ -3,7 +3,7 @@ Existing Item updates Yes or No
 Existing order updates Yes or No
 New cost components must be inserted in config table for any additional fee that incurred in this update. 
 
-HTS load into system
+# HTS load into system
 HTS
 HTS Definition
 HTS Tariff
