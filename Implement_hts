@@ -38,6 +38,12 @@ Duty : DTYUS = DTY4AUS + DTY4BUS
 Tax and fees are also calculated in the same manner and stores in another set to tables. 
 These three components combined together make the estimated cost. 
 
+HTS addtion on product
+The HTS treatments defined in the system are added to applicable products. 
+
+HTS addtion on Purchase orders
+When Items are added to the PO, The item should carry their HTS (if elgible) and falls under PO written date and delivery date. 
+
 
 
 
