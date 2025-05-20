@@ -33,6 +33,11 @@ HTS 1201.00.0000 has a Interior Zone duty rate of 20%
 
 HTS Tariff :
 charges applicable : Duty, Tax & Fee
+Duty : DTYUS = DTY4AUS + DTY4BUS
+
+Tax and fees are also calculated in the same manner and stores in another set to tables. 
+These three components combined together make the estimated cost. 
+
 
 
 
