@@ -45,6 +45,14 @@ HTS addtion on Purchase orders
 When Items are added to the PO, The item should carry their HTS (if elgible) and falls under PO written date and delivery date. 
 
 Total product cost = Base cost + freight + Tariff + Landed cost.
+Examples : 
+The ERP calculates:
+    Base cost: $10
+    Tariff: $2.77
+    Freight: $1.50
+    Landed cost: $14.27
+
+
 
 
 
