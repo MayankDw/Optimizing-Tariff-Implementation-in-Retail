@@ -1,7 +1,10 @@
 Chapter	2	Broad product category (e.g., 62 = Apparel)
-Heading	4	Product type (e.g., 6201 = Overcoats)
+Heading	4	Product type (e.g., 6201 = Overcoats, car coats, ski jackets etc.)
 Subheading	6	Material or function (e.g., 6201.93 = Synthetic fibers)
 Tariff Line Code	10	U.S.-specific classification for duty calculation (e.g., 6201.93.3011)
+The last 4 digits - First National sub-heading, specfic product - overcoats.
+
+
 
 
 Country of source vs manufacture- First determine what is the country of origin - This could be country of manufacturing or country of sourcing. 
