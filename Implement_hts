@@ -2,7 +2,8 @@ Chapter	2	Broad product category (e.g., 62 = Apparel)
 Heading	4	Product type (e.g., 6201 = Overcoats, car coats, ski jackets etc.)
 Subheading	6	Material or function (e.g., 6201.93 = Synthetic fibers)
 Tariff Line Code	10	U.S.-specific classification for duty calculation (e.g., 6201.93.3011)
-The last 4 digits - First National sub-heading, specfic product - overcoats.
+The last 4 digits - First National sub-heading, specfic product - overcoats. The last two digits are statistical - Mens overcoats
+
 
 
 
