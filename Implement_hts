@@ -4,6 +4,10 @@ Subheading	6	Material or function (e.g., 6201.93 = Synthetic fibers)
 Tariff Line Code	10	U.S.-specific classification for duty calculation (e.g., 6201.93.3011)
 The last 4 digits - First National sub-heading, specfic product - overcoats. The last two digits are statistical - Mens overcoats
 
+There are different methods by which the assessment is calculated. 
+if an item is ordered there could be specific rate for the number of eaches orders then another ad valorem rate that could
+applicable to number of eaches ordered and then 
+there is another component i.e. value that value*secondary (or advalorem rate). suppose $1000. 1000*secondary rate
 
 Country of source vs manufacture- First determine what is the country of origin - This could be country of manufacturing or country of sourcing. 
 Existing Item updates Yes or No
