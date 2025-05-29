@@ -9,6 +9,10 @@ if an item is ordered there could be specific rate for the number of eaches orde
 applicable to number of eaches ordered and then 
 there is another component i.e. value that value*secondary (or advalorem rate). suppose $1000. 1000*secondary rate
 
+The secondary rate is taken as the proportion to the value of product ordered. A certain percentage of the values is designated
+to be the ad valorem percentage. This is applicable for certain type of good. if $1000 worth of product is arrving a x% percetange 
+of duty levied on the value of the product. 
+
 Country of source vs manufacture- First determine what is the country of origin - This could be country of manufacturing or country of sourcing. 
 Existing Item updates Yes or No
 Existing order updates Yes or No
