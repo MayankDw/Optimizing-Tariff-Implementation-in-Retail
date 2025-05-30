@@ -13,6 +13,10 @@ The secondary rate is taken as the proportion to the value of product ordered. A
 to be the ad valorem percentage. This is applicable for certain type of good. if $1000 worth of product is arrving a x% percetange 
 of duty levied on the value of the product. 
 
+The cost component is created and assigned one ID, that ID is associated to HTS code. The ID also holds the calculation method
+if its specific rate, ad valorem rate or compound i.e. the sum of both.
+
+
 Country of source vs manufacture- First determine what is the country of origin - This could be country of manufacturing or country of sourcing. 
 Existing Item updates Yes or No
 Existing order updates Yes or No
