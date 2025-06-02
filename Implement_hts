@@ -17,9 +17,9 @@ The cost component is created and assigned one ID, that ID is associated to HTS 
 if its specific rate, ad valorem rate or compound i.e. the sum of both.
 
 Three different methods of calculation : 
-Specific
-Advalorem value
-compound
+1) Specific
+2) Advalorem value
+3) compound
 
 The cost component ID plays an important role is application of tariff to product and to the purchase orders to estimate the 
 cost of product for retailers. 
