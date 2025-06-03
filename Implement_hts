@@ -19,10 +19,7 @@ if its specific rate, ad valorem rate or compound i.e. the sum of both.
 Three different methods of calculation : 
 1) Specific
 2) Advalorem value
-3) compound
-
-The cost component ID plays an important role is application of tariff to product and to the purchase orders to estimate the 
-cost of product for retailers. 
+3) compound 
 
 Country of source vs manufacture- First determine what is the country of origin - This could be country of manufacturing or country of sourcing. 
 Existing Item updates Yes or No
