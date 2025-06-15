@@ -45,6 +45,8 @@ HTS application on product
 HTS application on Purchase order
   hts-po
   hts-po-charges
+  charge splits and track under transaction code
+  Map transaction code to stock ledger and general ledger
 
 clearing zones
 This setup is need for the country that use clearing zones concept. Clearing zone are port of entry of importing country and rates, fee, tax could vary depending 
