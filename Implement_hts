@@ -84,7 +84,7 @@ Price is uploaded into POS and ecommerce systems.
 The base cost, tariff, freight, insurance, commission and any other applicable charges are categorized into a separate 
 transaction code for stock ledger records and General ledger for financial review and public reporting.
 
-Procurement Flow:
+Procurement Flow:-
 1. To initiate the financial transaction, the importer applies for a Letter of Credit (L/C) from their financial institution, known as the issuing bank. 
 2. Upon approval, the issuing bank prepares the L/C and forwards it to the exporter’s bank, which serves as the advising or confirming bank.
 3. importer verifies the shipment and commercial documents, and submits them to freight forwarder
