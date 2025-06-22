@@ -56,7 +56,7 @@ Example:
 HTS 1201.00.0000 has a Border Zone duty rate of 5%
 HTS 1201.00.0000 has a Interior Zone duty rate of 20%
 
-HTS Tariff :
+HTS Tariff :-
 charges applicable : Duty, Tax & Fee
 Duty : DTYUS = DTY4AUS + DTY4BUS
 
