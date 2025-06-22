@@ -52,7 +52,7 @@ clearing zones
 This setup is need for the country that use clearing zones concept. Clearing zone are port of entry of importing country and rates, fee, tax could vary depending 
 on the port good entered. The United states doesn't have this concept, same charges, tax, fee are applicables whether goods enter through california or New York. 
 However several other country for example Mexico has different charges, rates, taxes based on which port of authority goods entered. 
-Example:
+Example:-
 HTS 1201.00.0000 has a Border Zone duty rate of 5%
 HTS 1201.00.0000 has a Interior Zone duty rate of 20%
 
