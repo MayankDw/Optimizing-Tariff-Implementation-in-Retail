@@ -93,6 +93,19 @@ Procurement Flow:-
 6. Releases the paper to importer to claim the goods. 
 
 
+Actual Landed Cost: 
+ Merchandise Cost + Freight + Duty + Insurance + Commission + Other Fees 
+
+where:
+
+Merchandise Cost is the cost of product that supplier charges to the vendor.
+Freight is the cost of freight carrier charges for bringing products from Supplier to retailer’s door. 
+Duty is charged at the port based on product HTS qualification.
+Insurance & Commission is paid depending on negotiation terms between supplier and retailer.
+Other fees include several other charges,storage,handling,banking,agents,broker etc.
+
+
+
 
 
 
