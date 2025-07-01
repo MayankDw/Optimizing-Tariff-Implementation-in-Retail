@@ -21,6 +21,7 @@ Where would we classify dried raisins?
 3- We rule out heading 0801 (covering coconuts, Brazil nuts and cashew nuts), and continue looking through the 4-digit classifications until we see that heading 0806 covers “Grapes, fresh or dried.” That looks promising!! It is the most specific heading in the chapter, so we limit our effort to the provisions of this heading.
 
 So, how do you know how to classify goods at the 6-digit, 8-digit and/or 10-digit level?
+
 •	A 10-digit code used by the United States to classify goods imported into the country.
 
 •	The first 6 digits are based on the Harmonized System (HS), developed by the World Customs Organization (WCO) and used internationally.
