@@ -22,9 +22,5 @@ Where would we classify dried raisins?
 
 So, how do you know how to classify goods at the 6-digit, 8-digit and/or 10-digit level?
 
-•	A 10-digit code used by the United States to classify goods imported into the country.
-
-•	The first 6 digits are based on the Harmonized System (HS), developed by the World Customs Organization (WCO) and used internationally.
-
-•	The final 4 digits are U.S.-specific and used to set duty rates, trade data tracking, and regulatory details
+•	A 10-digit code used by the United States to classify goods imported.
 
